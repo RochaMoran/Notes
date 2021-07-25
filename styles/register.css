@@ -1,0 +1,21 @@
+.body-register {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: rgb(10, 10, 10);
+}
+
+.form-notes {
+    width: 30%;
+    padding: 30px 25px;
+    border: 1px solid white;
+    border-radius: 25px 0 25px 0;
+}
+
+.label {
+    padding:10px 0;
+}
+
+.message {
+    color: white;
+}
